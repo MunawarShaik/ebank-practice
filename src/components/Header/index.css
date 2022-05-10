@@ -1,0 +1,18 @@
+.nav-header {
+  background-color: #152850;
+  padding: 20px;
+}
+.nav-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.logo {
+  width: 120px;
+}
+.button {
+  background-color: transparent;
+  border: 1px solid white;
+  color: white;
+  padding: 6px;
+}
